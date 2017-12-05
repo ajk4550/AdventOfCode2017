@@ -1,0 +1,33 @@
+Programing Languages To use
+1. Python
+2. Ruby
+3. Java
+4. JavaScript
+5. C++
+
+Possible remaining options
+SQL
+C++
+C
+C#
+Objective-C
+Swift
+PHP
+Rust
+Go
+OCaml
+Scala
+MATLAB
+ActionScript
+Assembly
+Bash
+Basic
+Batch
+CoffeeScript
+Clojure
+Elixir
+Elm
+Erlang
+Haskell
+R
+Verilog
